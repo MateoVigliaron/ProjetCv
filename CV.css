@@ -1,0 +1,151 @@
+#photo {
+   width: 150px;
+   height: 150px; 
+   border-radius: 50%;
+   vertical-align: middle;
+ }
+
+
+.center {
+   text-align: center;
+ }
+
+
+html, body {
+   background-image: url(../image/green_gobbler.png);
+   width: 100%;
+ }
+
+.bungee {   
+   font-family: 'Bungee Shade', cursive;
+   color: #4B77BE;
+ } 
+
+
+#infos {
+   width: 25%;
+   position: absolute;
+   height: 200px;
+   padding: 30px;
+   left: 0%;
+   margin-top: 20px;
+   margin-left: 35px;
+   font-family: 'Delius Swash Caps', cursive;
+   color: #4B77BE;
+}
+
+#competences {
+   width: 25%;
+   position: absolute;
+   height: 200px;
+   padding: 30px;
+   center: 0%;
+   margin-top: 20px;
+   font-family: 'Delius Swash Caps', cursive;
+   color: #4B77BE;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+
+.colonne {
+	float: left;
+	padding: 0 5px;
+	width: 50%;
+}
+
+
+#headercontact {
+    background-image: url(../img/paven_@2X.png);
+    position: absolute;
+}
+
+.imgcontact {
+      width: 30px;
+      height: 30px;
+}
+
+.boutonheader {
+      display: inline-block;
+}
+
+.boutonheader :hover {
+      display: inline-block;
+      background-color: #049372;
+}
+
+#titreprincipal {
+      text-align: center;
+      font-size: 36px;
+      margin-bottom: 0px;
+}
+
+.soustitre {
+      text-align: left;;
+      font-size: 24px;
+}
+
+.center {
+      margin : auto;
+      text-align: center;
+}
+
+
+#competences {
+      height: 300px;
+      padding: 30px;
+      width: 20%;
+      left: 38%;
+      position: absolute;
+      margin-top: 38px;
+}
+
+#loisirs {
+      height: 300px;
+      padding: 30px;
+      width: 33%;
+      left: 66%;
+      position: absolute;
+      margin-top: 20px;
+      margin-right: 20px;
+      font-family: 'Delius Swash Caps', cursive;
+      color: #4B77BE;
+}
+
+#logoinfos {
+      height: 46px;
+      width:  46px;
+      float: left;
+      margin-right: 10px;
+}
+
+#logocompetences {
+      height: 40px;
+      width:  100px;
+      float: left;
+      margin-right: 5px;
+}
+
+#logoloisirs {
+      height: 40px;
+      width:  45px;
+      float: left;
+      margin-right: 5px;
+}
+
+.imagefooter {
+      height: 30px;
+      width: 30px;
+}
+
+.bouttonfooter {
+      display: inline-block;
+}
+
+#contact {
+      bottom: 10px;
+      right: calc(50% - 12.5px);
+      position: absolute;
+} 

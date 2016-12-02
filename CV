@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>CV Vigliaron Matéo</title>
+        <link rel="stylesheet"" href="CV.css">
+        <link href="https://fonts.googleapis.com/css?family=Bungee+Shade" rel="stylesheet">  
+        <link href="https://fonts.googleapis.com/css?family=Delius+Swash+Caps" rel="stylesheet">  
+    </head>
+    
+    <body>
+        <p class="center">
+                <img id="photo" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/13413034_916826041761443_7198506465342433567_n.jpg?oh=4deb161b646d3d51b81ef7eec73f00ee&oe=58C3B65A" alt="photo de Matéo Vigliaron" />
+        </p>
+
+        <h1 id="Nom" class= "center bungee">Vigliaron Matéo</h1>
+   <div>
+     <div id="infos">
+      <img id="logoinfos" src="http://www.nextformation.com/img/reconversion-icone.png" alt="logo de loisir" />
+	<h2 class="left">Informations sur moi</h2>
+            Agé de 21 ans, je suis actuellement en formation pour devenir développeur web/mobile à Popschool Lens, j'ai choisi cette voie car je suis passionné par l'informatique et les nouvelles technologies depuis mon plus jeune âge.
+            Avant cela en juin 2014 j'ai obtenu mon baccalauréat série S puis j'ai suivie une année de licence de droit et ensuite une année de licence de biologie.
+            Je suis également mobile étant titulaire du permis B.
+            
+     </div>
+    </div>
+    
+
+    <div>
+     <div id="competences">
+      <img id="logocompetences" src="http://digicomstory.com/wp-content/uploads/2013/08/icone-strat%C3%A9gie-social-media-xlarge.png" alt="logo de competences" />
+	<h2 class="center">Compétences</h2>
+          <ol>
+           <li>Html</li>
+           <li>Css</li>
+           <li>JavaScript</li>
+           <li>PHP</li>
+           <li>Ruby</li>
+           <li>Python</li>
+           <li>Anglais très bon</li>
+           <li>Espagnol bon</li>
+          </ol>
+     </div>
+    </div>
+
+    <div>
+     <div id="loisirs">
+      <img id="logoloisirs" src="http://www.publi-on.com/wp-content/uploads/2014/09/icone_ordinateur-500px.png" alt="logo de loisirs" />
+	<h2 class="right">Loisirs</h2>
+         Je suis passionné de sport, je pratique le basket ball depuis 9ans dont 8années en club, et depuis septembre je fais également de la musculation.
+         J'aime aussi jouer aux jeux vidéos, aller au cinéma, et coder bien entendu.
+     </div>
+   </div>
+
+      <footer id="contact">
+        <div class="bouttonfooter"><a href="https://www.facebook.com/mateo.vigliaron" target="_blank"><img class="imagefooter" src="https://www.seeklogo.net/wp-content/uploads/2011/06/facebook-icon-logo-vector-400x400.png" alt="logo de facebook"/></a></div>  
+        <div class="bouttonfooter"><a href="https://twitter.com/?lang=fr" target="_blank"><img class="imagefooter" src="http://www.logo20.com/img/miniatures/logo-twitter-rond.png" alt="logo de twitter"/></a></div>     
+        <div class="bouttonfooter"><a href="https://www.linkedin.com/in/mat%C3%A9o-vigliaron-939253133?trk=hp-identity-photo" target="_blank"><img class="imagefooter" src="http://www.freeiconspng.com/uploads/-more-related-linkedin-vector-icon-vector-logos-linkedin-vector-logo-23.png" alt="logo de linkedin"/></a></div>   
+      </footer>  
+        
+    </body>
+</html>
